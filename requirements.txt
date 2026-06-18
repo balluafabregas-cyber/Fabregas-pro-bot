@@ -1,0 +1,12 @@
+# ============================================
+# FABREGAS-PRO-BOT PYTHON DEPENDENCIES
+# MADE IN BY BALLUA FABREGAS ✨
+# ============================================
+
+requests==2.31.0
+numpy==1.24.0
+pandas==2.0.0
+Pillow==10.0.0
+python-dotenv==1.0.0
+aiohttp==3.8.0
+PyYAML==6.0
